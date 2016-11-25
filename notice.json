@@ -4,7 +4,8 @@
   "embargo": "2016-11-24T07:25:00Z",
   "version": {
     "version_code": "2.8.21516-Hoseok",
-    "change_log_uri": "http://google.com",
+    "change_log_uri_en": "https://raw.githubusercontent.com/w4-hslee/test/master/changelog_en.json",
+    "change_log_uri_ko": "https://raw.githubusercontent.com/w4-hslee/test/master/changelog_ko.json",
     "app_link": "market://details?id=com.wisefour.gabe.pos.app",
     "is_mandatory": false
   }
