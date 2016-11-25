@@ -3,7 +3,7 @@
   "type": "VERSION",
   "embargo": "2016-11-24T07:25:00Z",
   "version": {
-    "version_code": "2.8.21515-Hoseok",
+    "version_code": "2.8.21514-Hoseok",
     "change_log_uri": "http://google.com",
     "app_link": "market://details?id=com.wisefour.gabe.pos.app",
     "is_mandatory": false
